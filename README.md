@@ -21,5 +21,6 @@ Go to the [Registration form](https://events.ecmwf.int/e/esowc2019) and upload y
 ### Application period
 Applications are open from 21 January to 21 April 2019.
 
+<br>
 
 **Be part of ESoWC 2019 and help us to innovate weather-related code!**
