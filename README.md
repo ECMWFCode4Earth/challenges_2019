@@ -15,8 +15,7 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |8|[Obtaining online aircraft metadata](https://github.com/esowc/challenges_2019/issues/8)|[@bruceingleby](https://github.com/bruceingleby), [@mohameddahoui](https://github.com/mohameddahoui)|
 |9|[Suites normalization tool](https://github.com/esowc/challenges_2019/issues/11)|[@juanjodd](https://github.com/juanjodd), Axel Bonet|
 |10|[Extend ecPoint-PyCal software for conditional verification applications](https://github.com/esowc/challenges_2019/issues/12)|Fatima Pillosu, Tim Hewson|
-|11|[Synoptic view of ecFlow suites with Blender
-](https://github.com/esowc/challenges_2019/issues/13)|Axel Bonet, Juan-Jose Dominguez|
+|11|[Synoptic view of ecFlow suites with Blender](https://github.com/esowc/challenges_2019/issues/13)|Axel Bonet, Juan-Jose Dominguez|
 |12|[Obtaining online aircraft metadata](https://github.com/esowc/challenges_2019/issues/14)|[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), Stephan Siemen|
 
 <br>
