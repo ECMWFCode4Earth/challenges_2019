@@ -14,7 +14,7 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |7|[Weather and Climate benchmarks for machine learning](https://github.com/esowc/challenges_2019/issues/7)|[@dueben](https://github.com/dueben)|
 |8|[Obtaining online aircraft metadata](https://github.com/esowc/challenges_2019/issues/8)|[@bruceingleby](https://github.com/bruceingleby), [@mohameddahoui](https://github.com/mohameddahoui)|
 |9|[Suites normalization tool](https://github.com/esowc/challenges_2019/issues/11)|[@juanjodd](https://github.com/juanjodd), [@morianemo](https://github.com/morianemo)|
-|10|[Extend ecPoint-PyCal software for conditional verification applications](https://github.com/esowc/challenges_2019/issues/12)|[@fatimapillosou](https:/github.com/fatimapillosou)|
+|10|[Extend ecPoint-PyCal software for conditional verification applications](https://github.com/esowc/challenges_2019/issues/12)|[@fatimapillosu](https:/github.com/fatimapillosu)|
 |11|[Synoptic view of ecFlow suites with Blender](https://github.com/esowc/challenges_2019/issues/13)|[@moarianemo](https://github.com/morianemo), [@juanjodd](https://github.com/juanjodd)|
 |12|[Machine learning for predicting extreme weather hazards](https://github.com/esowc/challenges_2019/issues/14)|[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), [@StephanSiemen](https://github.com/StephanSiemen)|
 
