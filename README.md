@@ -18,7 +18,7 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |11|[Synoptic view of ecFlow suites with Blender](https://github.com/esowc/challenges_2019/issues/13)|[@moarianemo](https://github.com/morianemo), [@juanjodd](https://github.com/juanjodd)|
 |12|[Machine learning for predicting extreme weather hazards](https://github.com/esowc/challenges_2019/issues/14)|[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), [@StephanSiemen](https://github.com/StephanSiemen)|
 
-
+If you questions to one or more challenges, just leave comment on the respective issue. We are looking forward to your discussions.
 
 <br>
 
