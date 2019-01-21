@@ -6,7 +6,7 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |#|Challenge|Mentor|
 |------|---------|-------|
 |1|[Command-line tool that translates documentation output into Confluence (Atlassian)](https://github.com/esowc/challenges_2019/issues/9)|[@dvsantoalla](https://github.com/dvsantoalla), Avi Bahra|
-|2|[Enhanced visualisation of atmospheric data](https://github.com/esowc/challenges_2019/issues/10)|[@sylvielamythepaut](https://github.com/sylvielamythepaut)|
+|2|[Enhanced visualisation of atmospheric data](https://github.com/esowc/challenges_2019/issues/10)|[@sylvielamythepaut](https://github.com/sylvielamythepaut), [@milanavuckovic](https://github.com/milanavuckovic)|
 |3|[Open source tool for GIS-based dissolve functionalities](https://github.com/esowc/challenges_2019/issues/3)|[@latimau](https://github.com/latimau), Calum Baugh|
 |4|[Standalone offline interactive 3D globe visualisation widget](https://github.com/esowc/challenges_2019/issues/4)|[@iainrussell](https://github.com/iainrussell), [@sk-ec](https://github.com/sk-ec)|
 |5|[Jupyter-based application for vertical cross-sections](https://github.com/esowc/challenges_2019/issues/5)|[@iainrussell](https://github.com/iainrussell), [@sk-ec](https://github.com/sk-ec)|
