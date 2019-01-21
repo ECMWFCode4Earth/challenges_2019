@@ -19,11 +19,13 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |12|[Machine learning for predicting extreme weather hazards](https://github.com/esowc/challenges_2019/issues/14)|[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), [@StephanSiemen](https://github.com/StephanSiemen)|
 
 
-Do you have your own idea about developing weather-related software or you want do something exciting with ECMWF / Copernicus data? Then you are invited to propose your own challenge. Follow the same registration steps and choose "Own contribution" when you upload your proposal.
+
 <br>
 
 ### How to apply
 Go to the [Registration form](https://events.ecmwf.int/e/esowc2019) and upload your proposal under "Submit new abstract". Please upload your proposal in PDF format. You might want to have a look at [this proposal template](https://docs.google.com/document/d/19PfodO9DavLkhgo93fskPypICzy5krPvnyWC-ks0hrQ/edit?usp=sharing).
+
+Do you have your own idea about developing weather-related software or you want do something exciting with ECMWF / Copernicus data? Then you are invited to propose your own challenge. Follow the same registration steps and choose "Own contribution" when you upload your proposal.
 
 
 ### Application period
