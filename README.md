@@ -1,7 +1,7 @@
 The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/ecmwf-summer-weather-code-2019) programme by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int) is a collabrative online programme to promote the development of weather-related open-source software. 
 
 
-### APPLICATION DEADLINE: SUNDAY, 21 APRIL 23:59 GMT
+### APPICATIONS CLOSED ON 21 APRIL 2019 - FINAL WINNERS WILL BE ANNOUNCED ON TUESDAY, 30 APRIL 2019!
 <br>
 
 ### Overview of the challenges 2019
@@ -35,7 +35,7 @@ Do you have your own idea about developing weather-related software or you want 
 
 
 ### Application period
-Applications are open from 21 January to 21 April 2019.
+Applications are now closed and submitted proposals are currently on review. The proposals selected will be announced on Tuesday, 30 April 2019.
 
 <br>
 
