@@ -24,16 +24,6 @@ If you have questions to one or more challenges, just leave a comment on the res
 
 <br>
 
-### How to apply
-The application is a two-step process:
-1. Go to the [Registration form](https://events.ecmwf.int/e/esowc2019) and register. Then, 
-2. upload your proposal under ["Submit new abstract"](https://events.ecmwf.int/event/117/abstracts/#submit-abstract). Please upload your proposal in PDF format. 
-
-You might want to have a look at [this proposal template](https://docs.google.com/document/d/19PfodO9DavLkhgo93fskPypICzy5krPvnyWC-ks0hrQ/edit?usp=sharing).
-
-Do you have your own idea about developing weather-related software or you want do something exciting with ECMWF / Copernicus data? Then you are invited to propose your own challenge. Follow the same registration steps and choose "Own contribution" when you upload your proposal.
-
-
 ### Application period
 Applications are now closed and submitted proposals are currently on review. The proposals selected will be announced on Tuesday, 30 April 2019.
 
