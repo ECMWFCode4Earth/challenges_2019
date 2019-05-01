@@ -13,6 +13,7 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |5|Extend ecPoint-PyCal for conditional verification applications|[@onyb](https://github.com/onyb)|[@fatimapillosu](https://github.com/fatimapillosu)|
 
 <br>
+
 #### ESoWC 2019 challenges with a focus on machine-learning (supported by [Copernicus](https://climate.copernicus.eu/))
 
 |#|Project|Participant|Mentor|
