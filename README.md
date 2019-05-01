@@ -4,7 +4,7 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 ### Overview of ESoWC 2019 projects and participants
 <br>
 |#|Project|Participant|Mentor|
-|------|---------|-------|
+|------|---------|-------|----------|
 |1|Python-based interface to ECMWF's Intergrated Forecasting System single model column|[@tibi77](https://github.com/tibi77)|[@mlange05](https://github.com/mlange05), [@marsdeno](https://github.com/marsdeno)|
 |2|GIS-based dissolve functionalities using GRASS GIS|[@mundialis](https://github.com/mundialis)|[@latimau](https://github.com/latimau), [@calumbaugh](https://github.com/calumbaugh)|
 |3|BVtk: scientific visualization inside Blender|Lorenzo Celli, Antonella Guidazzoli, [@simboden](https://github.com/simboden), Gabriele Brizzi, Enzo Papandrea|[@sylvielamythepaut](https://github.com/sylvielamythepaut), [@milanavuckovic](https://github.com/milanavuckovic), [@joaquinval](https://github.com/joaquinval)|
