@@ -1,10 +1,19 @@
 The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/ecmwf-summer-weather-code-2019) programme by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int) is a collabrative online programme to promote the development of weather-related open-source software. 
 
 
-### APPICATIONS CLOSED ON 21 APRIL 2019 - FINAL WINNERS WILL BE ANNOUNCED ON TUESDAY, 30 APRIL 2019!
+### Overview of ESoWC 2019 projects and participants
+<br>
+|#|Project|Participant|Mentor|
+|------|---------|-------|
+|1|Python-based interface to ECMWF's Intergrated Forecasting System single model column|[@tibi77](https://github.com/tibi77)|[@mlange05](https://github.com/mlange05), [@marsdeno](https://github.com/marsdeno)|
+|2|GIS-based dissolve functionalities using GRASS GIS|[@mundialis](https://github.com/mundialis)|[@latimau](https://github.com/latimau), [@calumbaugh](https://github.com/calumbaugh)|
+|3|BVtk: scientific visualization inside Blender|Lorenzo Celli, Antonella Guidazzoli, [@simboden](https://github.com/simboden), Gabriele Brizzi, Enzo Papandrea|[@sylvielamythepaut](https://github.com/sylvielamythepaut), [@milanavuckovic](https://github.com/milanavuckovic), [@joaquinval](https://github.com/joaquinval)|
+|4|Obtaining online aircraft metadata|[@michiboo](https://github.com/michiboo)|[@bruceingleby](https://github.com/bruceingleby), [@mohameddahoui](https://github.com/mohameddahoui)|
+|5|Extend ecPoint-PyCal for conditional verification applications|[@onyb](https://github.com/onyb)|[@fatimapillosu](https://github.com/fatimapillosu)||
 <br>
 
 ### Overview of the challenges 2019
+Note: Applications closed on 22 April 2019.
 |#|Challenge|Mentor|
 |------|---------|-------|
 |1|[Command-line tool that translates documentation output into Confluence (Atlassian)](https://github.com/esowc/challenges_2019/issues/9)|[@dvsantoalla](https://github.com/dvsantoalla)|
@@ -20,13 +29,3 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |11|[Synoptic view of ecFlow suites with Blender](https://github.com/esowc/challenges_2019/issues/13)|[@moarianemo](https://github.com/morianemo), [@juanjodd](https://github.com/juanjodd)|
 |12|[Machine learning for predicting extreme weather hazards](https://github.com/esowc/challenges_2019/issues/14)|[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), [@StephanSiemen](https://github.com/StephanSiemen)|
 
-If you have questions to one or more challenges, just leave a comment on the respective issue. We are looking forward to your discussions.
-
-<br>
-
-### Application period
-Applications are now closed and submitted proposals are currently on review. The proposals selected will be announced on Tuesday, 30 April 2019.
-
-<br>
-
-**Be part of ESoWC 2019 and help us to innovate!**
