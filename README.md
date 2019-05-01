@@ -7,11 +7,14 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |#|Project|Participant|Mentor|
 |------|---------|-------|----------|
 |1|Python-based interface to ECMWF's Intergrated Forecasting System single model column|[@tibi77](https://github.com/tibi77)|[@mlange05](https://github.com/mlange05), [@marsdeno](https://github.com/marsdeno)|
+|2|GIS-based dissolve functionalities using GRASS GIS|[@mundialis](https://github.com/mundialis)|[@latimau](https://github.com/latimau), [@calumbaugh](https://github.com/calumbaugh)|
+
 
 <br>
 
 ### Overview of the challenges 2019
 Note: Applications closed on 22 April 2019.
+
 |#|Challenge|Mentor|
 |------|---------|-------|
 |1|[Command-line tool that translates documentation output into Confluence (Atlassian)](https://github.com/esowc/challenges_2019/issues/9)|[@dvsantoalla](https://github.com/dvsantoalla)|
