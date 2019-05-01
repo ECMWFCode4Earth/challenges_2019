@@ -12,6 +12,14 @@ The [Summer of Weather Code(ESoWC)](https://www.ecmwf.int/en/learning/workshops/
 |4|Obtaining online aircraft metadata|[@michiboo](https://github.com/michiboo)|[@bruceingleby](https://github.com/bruceingleby), [@mohameddahoui](https://github.com/mohameddahoui)|
 |5|Extend ecPoint-PyCal for conditional verification applications|[@onyb](https://github.com/onyb)|[@fatimapillosu](https://github.com/fatimapillosu)|
 
+#### ESoWC 2019 challenges with a focus on machine-learning
+(supported by [Copernicus](https://climate.copernicus.eu/))
+
+|#|Project|Participant|Mentor|
+|------|---------|-------|----------|
+|1|Machine learning to better predict and understand drought |[@tommylees112](https://github.com/tommylees112), [@gabrieltseng](https://github.com/gabrieltseng)|[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), [@StephanSiemen](https://github.com/StephanSiemen)|
+|2|MATEHIW - MAchine learning TEchniques for High-Impact Weather|[@lkugler](https://github.com/lkugler), Sebastian Lehner |[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), [@StephanSiemen](https://github.com/StephanSiemen)|
+|3|Data-driven feature selection towards improving forecast-based prediction of wildfire hazard| Maria Sousa, Ricardo Maia, Eduardo Araujo |[@cvitolo](https://github.com/cvitolo), [@jwagemann](https://github.com/jwagemann), [@StephanSiemen](https://github.com/StephanSiemen)|
 
 <br>
 
