@@ -4,3 +4,4 @@
     - In particular, please look at the mapping service: https://emergency.copernicus.eu/mapping
   * European Severe Weather Database (ESWD): http://www.eswd.eu/
   * ECMWF Severe Event Catalogue: https://confluence.ecmwf.int/display/FCST/Severe+Event+Catalogue
+  * FloodList: http://floodlist.com/
